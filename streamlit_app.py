@@ -7,7 +7,7 @@ st.title("Customize Your Smoothie! :cup_with_straw:")
 st.write(
     """Choose the fruits you want in your custom Smoothie!
     """)
-import Pandas as pd
+import pandas as pd
 
 
 name_on_order = st.text_input('Name on Smoothie:')
